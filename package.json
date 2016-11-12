@@ -1,6 +1,6 @@
 {
   "name": "ember-data-non-restful-actions",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "",
+  "repository": "bardzusny/ember-data-non-restful-actions",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Adrian Zalewski <aazalewski@hotmail.com> (https://github.com/bardzusny)",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.2",
@@ -47,7 +47,10 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "data",
+    "api",
+    "ember-data"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
